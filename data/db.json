@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fahmi Andriana",
+      "title": "FullStack Developer",
+      "desc": "Saya adalah seorang pekerja yang memiliki pengalaman di bidang administrasi dan marketing. Bergelar sarjana S1 di bidang Pendidikan, sempat berprofesi menjadi seorang guru dan sekarang saya mencoba memulai karir di dunia IT dengan mengikuti Bootcamp FullStack Developer",
+      "desc_bl": "Menginisiasi proses pesanan masuk, melaporkan segala kendalan dilapangan, menjembatani komunikasi antara IDC dan Mitra Bukalapak.",
+      "desc_cmo": "Menginisiasi strategi marketing, menjalin kerjasama dengan bisnis partner, memproses pendaftaran calon nasabah, mengevaluasi dan membantu menangani nasabah bermasalah.",
+      "desc_gk": "Melakukan aktifitas KBM, menjadi wali kelas, membuat perencanaan dan evaluasi pembelajaran",
+      "desc_sa_btn": "Mendokumentasi setiap laporan proyek, melakukan surat menyurat, menyiapkan segala kebutuhan operasional.",
+      "desc_sa_pst": "Mendocumentasi data sekolah, siswa dan guru. menginiasi pembuatan laporan guru bulanan, semesteran dan tahunan."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "id": 2,
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "name": "qwefew",
+      "email": "afe@gmail.com",
+      "message": "feaf",
+      "id": 3
+    },
+    {
+      "name": "qwefew",
+      "email": "afe@gmail.com",
+      "message": "feaf",
+      "id": 4
+    },
+    {
+      "name": "ewfwf",
+      "email": "qeq@hrh",
+      "message": "ewfwefw",
+      "id": 5
+    },
+    {
+      "name": "ewfwf",
+      "email": "qeq@hrh",
+      "message": "ewfwefw",
+      "id": 6
+    },
+    {
+      "name": "efw",
+      "email": "ad@faef",
+      "message": "afefee",
+      "id": 7
+    },
+    {
+      "name": "efw",
+      "email": "ad@faef",
+      "message": "afefee",
+      "id": 8
+    },
+    {
+      "name": "efw",
+      "email": "ad@faef",
+      "message": "afefee",
+      "id": 9
+    },
+    {
+      "name": "efw",
+      "email": "ad@faef",
+      "message": "afefee",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 32
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 35
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 36
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 37
+    },
+    {
+      "name": "fads",
+      "email": "asadsa@geg",
+      "message": "wafefew",
+      "id": 38
+    }
+  ]
+}
